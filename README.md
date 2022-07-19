@@ -1,6 +1,6 @@
 # Log Collector
 
-A simple log collector app listening UDP 5514
+A simple log collector app listening UDP 514
 
 ## Reference
 
